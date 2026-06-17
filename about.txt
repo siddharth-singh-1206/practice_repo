@@ -1,1 +1,4 @@
-hey the about file is edtied 
+cgpa:8.5
+better at coading
+better at sports 
+
